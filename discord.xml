@@ -1,6 +1,6 @@
 <application>
   <component name="DiscordApplicationSettings">
-    <option name="show" value="true" />
+    <option name="show" value="false" />
     <option name="idle" value="IGNORE" />
     <option name="applicationDetails" value="APPLICATION_VERSION" />
     <option name="applicationDetailsCustom" value="" />
